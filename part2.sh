@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 # 4 + 2 + 1
 # r + w + x
 chmod 755 ./claude_monet
